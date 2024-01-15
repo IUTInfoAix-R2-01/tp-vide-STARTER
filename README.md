@@ -1,6 +1,4 @@
-# r201-tp-env : Maîtriser l'environnement de développement (1/3) et les bases Java
-
-Squelette de projet Java pour TP R201
+# r201-tp-doo : squelette de structure vide pour TP R2.01 DOO Java
 
 Noter :
 - la présence du fichier caché <code>.gitignore</code>, qui liste les fichiers que Git NE doit PAS versionner. 
